@@ -1,0 +1,33 @@
+<table cellpadding="0" cellspacing="0" border="0" style="font-family: 'Articulat CF', Arial, sans-serif; color: #222425; line-height: 1.4;">
+  <tr>
+    <!-- Coluna da Esquerda: Logotipo -->
+    <td valign="middle" style="padding-right: 20px; border-right: 2px solid #C5A059;">
+      <!-- ATENÇÃO: Substitua o link do src pela URL onde a imagem do logo estiver hospedada -->
+      <img src="https://seusite.com.br/logo-ab.png" alt="Logo Andressa Brandão" width="100" style="display: block; border: 0; max-width: 100px;" />
+    </td>
+
+    <!-- Coluna da Direita: Textos -->
+    <td valign="middle" style="padding-left: 20px;">
+      <h2 style="margin: 0; font-size: 16px; color: #222425; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">
+        Andressa Brandão
+      </h2>
+      <p style="margin: 2px 0 10px 0; font-size: 12px; color: #C5A059; font-weight: normal;">
+        Sócia-Fundadora &nbsp;|&nbsp; OAB/SP 123.456
+      </p>
+
+      <p style="margin: 0; font-size: 12px; color: #222425;">
+        <strong style="color: #C5A059;">T.</strong> +55 00 0000-0000 &nbsp;&nbsp; <strong style="color: #C5A059;">D.</strong> +55 00 0000-0000<br>
+        <strong style="color: #C5A059;">E.</strong> <a href="mailto:email@padrao.adv.br" style="color: #222425; text-decoration: none;">email@padrao.adv.br</a><br>
+        <strong style="color: #C5A059;">L.</strong> <a href="https://www.linkedin.com/" style="color: #222425; text-decoration: none;">https://www.linkedin.com/</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Rodapé: Aviso de Confidencialidade -->
+    <td colspan="2" style="padding-top: 15px;">
+      <p style="margin: 0; font-size: 9px; color: #888888; text-align: justify; line-height: 1.3;">
+        Esta mensagem e seus anexos podem conter informações confidenciais ou privilegiadas, protegidas por sigilo profissional. Se você não for o destinatário, fica desde já notificado de que qualquer leitura, cópia, divulgação ou retenção é estritamente proibida. Caso tenha recebido este e-mail por engano, por favor, avise imediatamente o remetente e apague a mensagem.
+      </p>
+    </td>
+  </tr>
+</table>
